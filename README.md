@@ -1,13 +1,6 @@
 # Developer info:
 
 This web app was developed by jvalen92 please let me know if you find something wrong or that can improve, thanks for reading.
-# Developer info:
-
-This web app was developed by jvalen92 please let me know if you find something wrong or that can improve, thanks for reading.
-
-# Developer info:
-
-This web app was developed by jvalen92 please let me know if you find something wrong or that can improve, thanks for reading.
 
 # MyFirstApp
 
